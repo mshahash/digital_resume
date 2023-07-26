@@ -9,4 +9,6 @@
 - Lecturer (FAST NU-UNIVERSITY KARACHI)
 - Lecturer IBA Karachi
 ## MOOCs
-- attended MITX program at edx 
+- attended MITX program at edx
+- attended workshop at HABIB university 
+ 
