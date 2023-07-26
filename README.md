@@ -7,4 +7,6 @@
 - M.Sc. Mathematics (UOK,Karachi)
 ## Experience 
 - Lecturer (FAST NU-UNIVERSITY KARACHI)
-- Lecturer IBA Karachi 
+- Lecturer IBA Karachi
+## MOOCs
+- attended MITX program at edx 
